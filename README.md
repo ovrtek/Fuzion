@@ -1,2 +1,2 @@
-# Fuzion
+# Fuzion Engine
 Anime Fighting Game Engine
